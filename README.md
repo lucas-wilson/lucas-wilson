@@ -8,6 +8,8 @@
 
 ## About me
 
+<!-- TO DO: add more details about me later -->
+
 Hi, I'm Lucas. You might recognize me as GitHub's mascot.
 
 <details>
